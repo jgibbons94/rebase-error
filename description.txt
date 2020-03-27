@@ -1,0 +1,8 @@
+This repository has a large commit I want to divide into atomic commits.
+The definitions for functions a(), b(), c(), and d() should be divided.
+I try to follow the instructions on Stack Overflow: https://stackoverflow.com/a/43138338
+When I am rebasing and call "git reset HEAD~", git add -p says there is no commit.
+However, git status lists the file as changed.
+Search engines are unhelpful in this situation. All I get about this is unrelated to
+git rebase or git add -p.
+All help is appreciated.
